@@ -1,0 +1,51 @@
+# Hugo configuration file
+title: Sahasrara Puja
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Puja preparation - Months before
+      pageRef: /preparation
+      weight: 1
+    - name: Puja preparation - Weeks before
+      pageRef: /weeks-before
+      weight: 2
+    - name: Puja weekend
+      pageRef: /weekend
+      weight: 3
+    - name: Meeting notes
+      pageRef: /notes
+      weight: 4
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: true
+
+  editURL:
+    enable: false

@@ -25,18 +25,15 @@ markup:
 
 menu:
   main:
-    - name: Puja preparation - Months before
-      pageRef: /preparation
+    - name: Duties and Tasks
+      pageRef: /duties
       weight: 1
-    - name: Puja preparation - Weeks before
-      pageRef: /weeks-before
+    - name: Team
+      pageRef: /team
       weight: 2
-    - name: Puja weekend
-      pageRef: /weekend
-      weight: 3
     - name: Meeting notes
       pageRef: /notes
-      weight: 4
+      weight: 3
 
 params:
   navbar:

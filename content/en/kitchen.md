@@ -31,7 +31,7 @@ Generally speaking, the kitchen duties can be distributed to 3 sub-teams:
 
 {{% details title="Kitchen cleaning team" closed="true" %}}
 Kitchen cleaning team is responsible for cleaning the kitchen area. This is **NOT** cleaning
-the plates and cutlery in the back of the kitchen. The job of this is team is to clean the kitchen
+the plates and cutlery in the back of the kitchen. The job of this team is to clean the kitchen
 and food prepartion area. This includes:
 
 - All the pots and pans
@@ -40,14 +40,14 @@ and food prepartion area. This includes:
 - Ovens, stoves, urns etc.
 - Kitchen floor
 - Kitchen machines (mixers etc.)
-- Food prep area sinks (these are used for washing rice and vegetables)
+- Food prep area washbasins (these are used for washing rice and vegetables)
 
 {{< callout type="warning">}}
 Ensure that items are placed in the correct place after being cleaned. Ask the kitchen
 manager if you don't know where something goes.
 {{< /callout>}}
 
-**1-2 people from the cleaning team need to help during the cooking** because sometimes pots
+**1-2 people from the kitchen cleaning team are needed during the food preparation** because sometimes pots
 or kitchen tools need to be cleaned during food prep.
 However **most of the duties of the cleaning team starts after the food.**
 So eat your food calmly and get to work after that!
@@ -67,11 +67,11 @@ Do not disturb the chef and the cooks! If you need anything, talk to the kitchen
 {{< /callout>}}
 {{< callout type="info">}}
 There are multiple washbasins near the food prep area. Choose one to be used for washing rice and the
-rest for washing vegetables. Do not use these washbasins for anything else! If they are used for anything else,
+rest for washing vegetables. Do not use these washbasins for anything else! If one is used for anything else,
 please wash and disinfect the washbasin.
 {{< /callout>}}
 
-The food prep work **starts hours before the mean**. If you are preparing the breakfast,
+The food prep work **starts hours before the meal**. If you are preparing the breakfast,
 be in the kitchen at 6am. If you are preparing the lunch, be in the kitchen after breakfast. 
 If you are preparing the dinner, be in the kitchen around 3pm.
 {{% /details %}}
@@ -81,14 +81,15 @@ Serving team is responsible for serving the food and cleaning the general eating
 The duties of the serving team are:
 
 - Clean the eating and serving areas (including the tables)
+- Prepare the plats, bowls, utensils, and cups
 - Serve the food!!!
 
 {{< callout type="info">}}
-You can leave when there are no more crowds. If there are food leftovers, ask the
-kitchen manager or cooking team if you should leave the food or not.
+You can leave your duty when there are no more crowds waiting for food.
+If there is food leftover, ask the kitchen manager what do with it.
 {{< /callout>}}
 
-The serving food starts around an hour before food time.
+The serving team starts work around an hour before meal time.
 {{% /details %}}
 
 Besides the above sub-teams, there is the kitchen manager who's responsible for many things such as safety and hygiene,

@@ -25,15 +25,12 @@ markup:
 
 menu:
   main:
-    - name: Duties and Tasks
-      pageRef: /duties
-      weight: 1
     - name: Team
       pageRef: /team
-      weight: 2
+      weight: 1
     - name: Meeting notes
       pageRef: /notes
-      weight: 3
+      weight: 2
 
 params:
   navbar:

@@ -4,38 +4,45 @@ toc: true
 
 # Team
 
-The Sahasrara Puja team members are:
+{{< callout >}}
+This list is in alphabetical order!
+{{< /callout >}}
 
-From Austria:
+{{< tabs items="Austria,Czech,Germany,Hungary,Slovakia" >}}
+  {{< tab >}}
+  Adel Moradian
 
-- Edith Petermann
-- Soma Kuna
-- Adel
-- Stefan Simba
-- Lena
-- Bhushan
-- Alfred Stangl
-- Susanne Perauer
+  Faeze Aran
 
-From Czech Republic:
+  Lena Roeggla
 
-- Radek Michalak
-- Lenka Rodova
+  Maria Pitterle
 
-From Germany:
+  Stephan Simma
+  {{< /tab >}}
+  {{< tab >}}
+  Lenka Rodova
 
-- Barbara Martens
-- Bernd Mornhinweg
-- Reshma
+  Radek Michalak
+  {{< /tab >}}
+  {{< tab >}}
+  Barbara Martens
 
-From Hungary:
+  Bernd Mornhinweg
 
-- Katalin Lerch
+  Reshma
+  {{< /tab >}}
+  {{< tab >}}
+  Katalin Lerch
+  {{< /tab >}}
+  {{< tab >}}
+  Katalin Lerch
+  {{< /tab >}}
+  {{< tab >}}
+  Michaela Tornosova
 
-From Slovakia:
+  Darya Feizpour
 
-- Michaela Tornosova
-- Darya Feizpour
-- Zuzana Bhutaniova
-
-
+  Zuzana Bhutaniova
+  {{< /tab >}}
+{{< /tabs >}}

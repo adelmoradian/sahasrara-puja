@@ -15,7 +15,7 @@ Primary duties of the Puja coordinators:
   `kitchen cleaning`, `food preperation` and `serving` teams.
 - Ensure that there are enough Yogis available for cleaning the plates, bowls,
   cutlery, and cups.
-- Provide a sidekick to the kitchen manager to assist her in the duties.
+- If possible, provide a sidekick to the kitchen manager to assist her in the duties.
 {{< /callout >}}
 
 ---
@@ -95,7 +95,8 @@ The serving team starts work around an hour before meal time.
 Besides the above sub-teams, there is the kitchen manager who's responsible for many things such as safety and hygiene,
 communication, and general kitchen management. This is a very demanding task which requires constant presence in the kitchen.
 Not many Yogis know the details of this work so the hosting countries should try to provide one person to be the assistant to the kitchen manager.
-In this way we can reduce the load and share the knowledge.
+In this way we can reduce the load and share the knowledge. Note that it's not easy to be the assistant to the kitchen manager and this role
+must be filled with a suitable person. It's better to not fill the role than to provide a not-suitable person.
 
 {{< callout type="warning">}}
 It's important to keep the meal timings fixed! The kitchen almost works like a machine with its own rhythm.

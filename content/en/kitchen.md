@@ -56,11 +56,8 @@ So eat your food calmly and get to work after that!
 {{% details title="Food preparation team" closed="true" %}}
 Food preparation team is responsible for, wait for it, preparing the food!!!
 Lots of cutting, chopping, washing, and running around. Fiarly simple and fun
-work with a few simple rules to follow:
-
-- Listen to the kitchen manager
-- Do as you are told
-- Do not argue with the kitchen manager
+work. You will get your instructions from the kitchen manager. If you are not sure
+what to do or how to do a certain thing, always ask the kitchen manager.
 
 {{< callout type="warning">}}
 Do not disturb the chef and the cooks! If you need anything, talk to the kitchen manager

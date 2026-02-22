@@ -4,6 +4,55 @@ toc: false
 
 # Meeting Notes
 
+{{% details title="22.02.2026" closed="true" %}}
+{{< callout >}}
+Next meeting 1st of March
+{{< /callout >}}
+
+- We don't have a professional florist yet.
+  Silvester following up on his end for the flower team.
+  Radek can follow up on his side too although they are not professional.
+  Miklos might be able to get a professional from Hungary.
+- Gabi from Austria will be in the kitchen team again.
+- For the Tali, we still need Yogis from Czech Republic and Slovakia to give volunteers.
+  If we know people who have the desire or experience of cooking for Shri Mataji,
+  we should volunteer. Must to coordinate with Castle to make sure we have the
+  correct number of people. They can tell us how many people we can have. The person
+  cooking for Mother must know what she is cooking as Shri Mataji used to ask
+  about where the food is coming from and what it is. Food can be offered
+  at lunch time and after Puja. The tali team will only work on the tali on the
+  Puja day and should not have any other duties.
+- Backdrop is in progress.
+- Would be nice if this year someone from a different country prepares the invite.
+  Should be ready before 21st of March. There is also a second invitation
+  that coordinators will offer to Shri Mataji on Thursday or Friday. Invitation
+  can be written in the native language of the Yogis. The invitation should not be
+  a big story! On the website it should be a short expression of feeling and invite
+  to share the joy and worship of Shri Adi Shakti. There is also an element of motivating
+  Yogis to come!
+- Gifts for Shri Mataji - It would be if on the 5th of May all the hosting countries
+  can give a gift as a token of gratitude. It can be anything and not just jewelry.
+  Lakshmi baskets can be prepared for the school specifically also. It would be nice
+  if we can have collective Lakshmi baskets. Pujaris tell us that so many
+  Lakshmi baskets are not needed. We will get a list from the castle about
+  the things that can be in the Lakshmi basket. Items in the Lakshmi basket
+  should be artistic and practical.
+- Last year there was a suggestion that an outside team should take care
+  of cleaning the toilets. It costs around 500 Euros. For the 1st of March
+  meeting we should decide this.
+- We divided the names of Deities between multiple between. This is nice however
+  the flow got disrupted a bit. We need to decide on how many people should read
+  the names and what names so that they can practice and read them nicely. This should
+  also be decided on the 1st.
+- In Austria we have purchased the towels for Shri Mataji's room. We are working
+  on the pattern. As soon as the pattern is done, we can share it so that other countries
+  can also contribute.
+- Germany is working on a bed cover at the moment.
+- Czech is already working on getting the bus
+
+
+{{% /details %}}
+
 {{% details title="24.01.2026" closed="true" %}}
 {{< callout >}}
 Short summary: The Puja team should try to get more Yogis involved and aware
